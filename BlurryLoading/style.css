@@ -16,8 +16,7 @@ body {
 }
 
 .bg {
-    background: url('https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1024,c_fill,f_jpg/mlb/tamvx0z35wmczkzdhtuc'
-    ) no-repeat center center/cover;
+    background: blue no-repeat center center/cover;
     position: absolute;
     top: -30;
     left: -30;
